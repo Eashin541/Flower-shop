@@ -1,0 +1,291 @@
+.frist{
+    margin-top: 40px;
+    margin-left: 80px;
+    
+    display: flex;
+}
+.flw-ten{
+    padding-left:400px ;
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+}
+.tag{
+    padding-top: 145px;
+}
+.welcome{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.para-one{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;    
+}
+.baton{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+}
+.banner{
+    background: rgba(229, 84, 115, 0.10);
+    
+}
+.featured{
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+}
+.our{
+    text-align: center;
+}
+.lili{
+
+  display: flex;
+    width: 310px;
+height: 428px;
+padding-left:20% ;
+gap: 45px;
+
+}
+.lalflw{
+padding-top: 15px;
+padding-left:55px;
+padding-right: 55px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+
+}
+.sunflw{
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);}
+.holudflw{
+    padding-left: 65px;
+    padding-right: 65px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.underline{
+   
+    margin-left: 80px;
+   display: flex;
+  gap: 155px;
+}
+.lal{
+    padding-left: 600px;
+    font-size: 24px;
+}
+.golapi{
+    padding-left: 135px;
+    font-size: 24px;
+}
+.holud{
+    padding-left: 135px;
+    font-size: 24px;
+}
+.hotdeal{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+    display: flex;
+}
+.group{
+    margin-left: 480px;
+    width: 1340px;
+height: 220px;
+flex-shrink: 0;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+}
+.pic{
+     
+    margin-left: 80px;
+   display: flex;
+  gap: 155px;
+}
+
+.boy{content: none;
+ padding-left: 150px;
+ padding-top: 55px;
+ padding-right:150px ;
+    width: 88px;
+height: 88px;
+}
+.ful{
+    padding-left: 80px;
+ padding-top: 55px;
+ padding-right:150px ;
+    width: 88px;
+height: 88px;
+}
+
+
+.girl{
+    padding-left: 10px;
+    padding-top: 55px;
+    padding-right:150px ;
+       width: 88px;
+   height: 88px;
+   }
+   .under{
+    display: flex;
+   }
+   .text-five{    padding-left: 80px;
+    display: flex;
+   }
+   .boy1{
+    padding-left: 100px;
+   }
+   .ful1{
+    padding-left:190px;
+   }
+.gril1{
+    padding-left: 290px;
+}
+.text-one{
+  
+    padding-top: 250px;
+ 
+}
+.hot{
+ 
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.baton-two{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+}
+.lal-golap{
+    margin-top:120px;
+    padding-left: 350%;
+    padding-top:5%;
+}
+.three{
+margin-top: 80px;
+margin-left: 80px;
+margin-right: 80px;
+}
+.three{
+    text-align: center;
+}
+.text-four{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.para-four{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.flowers{ 
+   gap: 15px;
+   width: 342px;
+   height: 396px;
+    margin-left:180px;
+    margin-right: 180px;
+    padding-left: 350px;
+    display:inline;
+}
+.gendha{
+    width: 1430px;
+height: 449px;
+flex-shrink: 0;
+    padding-top: 80px;
+   padding-left: 500px;
+    border-radius: 8px;}
+  
+    .finish{
+        width: 100%;
+height: 449px;
+flex-shrink: 0;
+        background: #111010;    
+    }
+    .last{
+
+        text-align: center;
+    }
+    .flo{
+        padding-top: 90px;
+    }
+    .primary{
+        color: #E55473;
+
+    }
+    .secend{
+    color: #FFFFFF;
+    }
+    .para-five{
+        color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+    }
+    .date{
+        text-align: center;
+        color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+
+.para-six{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+
+
+    
